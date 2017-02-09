@@ -1,0 +1,2 @@
+# MOj-repozitorijum
+Skladistenje projekta
